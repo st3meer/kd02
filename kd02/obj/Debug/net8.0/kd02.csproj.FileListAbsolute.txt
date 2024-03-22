@@ -2,3 +2,4 @@ c:\Users\LENOVO\Downloads\kd02\kd02\obj\Debug\net8.0\kd02.GeneratedMSBuildEditor
 c:\Users\LENOVO\Downloads\kd02\kd02\obj\Debug\net8.0\kd02.AssemblyInfoInputs.cache
 c:\Users\LENOVO\Downloads\kd02\kd02\obj\Debug\net8.0\kd02.AssemblyInfo.cs
 c:\Users\LENOVO\Downloads\kd02\kd02\obj\Debug\net8.0\kd02.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\kd02\kd02\obj\Debug\net8.0\kd02.sourcelink.json

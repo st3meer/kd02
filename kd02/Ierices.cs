@@ -63,7 +63,7 @@ class Dators : Ierices{
             if (isonserver){ //parbaude, vai serveris ir ieslegs
                 connectedServer = server; //savienojam
             }
-            Console.WriteLine("Dators ir savienots ar serveri " + connectedServer);
+            Console.WriteLine("Dators ir savienots ar serveri " + connectedServer.getServerName());
             server.connectToComputer(this); //savienojam serveri ar datoru
         }
     }
